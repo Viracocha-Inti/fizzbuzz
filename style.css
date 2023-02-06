@@ -6,6 +6,7 @@
 body {
   background-image: linear-gradient(120deg, #d5b54b, #b24324);
   color: white;
+  font-family: Helvetica;
   min-height: 100vh;
 }
 .header {
@@ -13,6 +14,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   padding: 15px;
   gap: 20px;
 }
